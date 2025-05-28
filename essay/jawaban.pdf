@@ -4,3 +4,34 @@
 4. Jelaskan menurut anda apa itu Array dan kegunaannya untuk apa!
 5. Berikan contoh array yang anda ketahui!
 6. Buatlah dengan bahasa pemrograman yang anda kuasai contoh dari struktur data menurut pandangan anda!
+
+
+Jawaban:
+1. Struktur data adalah cara untuk mengolah data dalam komputer agar dapat diakses, diolah, dan dimanipulasi secara efisien.
+
+2. Struktur data berguna untuk menyusun ataupun mengolah data dengan lebih fleksibel
+
+3. struktur data ada 2 jenis yaitu:
+    A) Linear = Elemen disusun berurutan
+        Terdiri dari:
+        -Static (Ukuran data tidak bisa diubah)
+        -Dynamic (Ukuran memori dapat berubah)
+        
+
+    B) Non-linear = hubungan antar elemen kompleks
+        Terdiri dari:
+        -Tree (Struktur data hierarki membentuk pohon terbalik)
+        -Graph (Struktur data )
+
+4. Array adalah data yang berisi data-data atau elemen dengan jenis yang sama.
+Array berfungsi untuk menyimpan data-data dengan jenis yang sama ke dalam satu variabel agar memudahkan dan mempercepat akses
+
+5. 
+Data:
+a=1; b=5; c=9; e=6
+
+Contoh Array:
+array = [a, b, c, [12,4,6], e]
+
+
+
